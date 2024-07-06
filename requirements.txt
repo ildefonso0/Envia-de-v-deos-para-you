@@ -1,0 +1,4 @@
+PyDrive
+requests
+python-dotenv
+beautifulsoup4
